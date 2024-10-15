@@ -80,6 +80,10 @@ body {
 }
 .hero-content span {
 	display: block;
+	color: green; /* Добавляем изменение цвета на зелёный */
+}
+.hero-content span {
+	display: inline;
 }
 .hero-content__p {
 	text-transform: none;
